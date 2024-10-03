@@ -1,0 +1,62 @@
+.background {
+  width: 1000px;
+  height: 2000px;
+  background-color: red;
+  background-image: url("https://images.unsplash.com/photo-1727946283836-cec378342537?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+}
+/* 
+- Syntax: selector{property: value}
+
+- Selectors: element, id, class, universal, grouping, ...
+
+- How to: 3 cách thêm css: inline, internal, external
+
+- Comments
+
+- Colors: rgb, hex, hsl
+
+- Backgrounds: 
+
+- Borders
+
+- Margins
+
+- Padding
+
+- Height/ Width
+
+- Box Model
+
+- Outline
+
+- Text
+
+- Fonts
+
+- Icons
+
+- Links
+
+- Lists
+
+- Tables
+
+- Display
+
+- Position: relative, absolute, fixed, sticky
+
+- z-index
+
+- Overflow
+
+- Float
+
+- Pseudo
+
+- Opacity
+
+- Units
+ */
